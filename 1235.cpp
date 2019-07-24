@@ -2,6 +2,8 @@
 Problema: 1235 - De Dentro para Fora
 Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1235
 Autor da resolução: Leonardo Nozaki
+
+Explicação da solução: Este é um problema simples, basta ler as strings de entrada e chamar a funcao decifre para cada string, a funcao vai realizar a leitura da string de entrada do centro para esquerda primeiramente e depois da direita para o centro e criar a string de resultado a partir disso, que é o texto original antes do virus.
 */
 
 #include <bits/stdc++.h>

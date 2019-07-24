@@ -2,6 +2,8 @@
 Problema: 1234 - Sentença Dançante
 Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1234
 Autor da resolução: Leonardo Nozaki
+
+Explicação da solucação: Esse é um problema simples, basta ler as linhas de entrada e chamar a funcao invertCase para deixar a linha como uma senteca dançante. A funcao inverte o case das letras se necessario (dependendo das suas posicoes) ou mantem caso nao seja necessario (Está no case esperado dado a sua posição ou nao é uma letra). A funcao retorna uma string no formato de sentença dançante e basta exibir o resultado.
 */
 
 #include <bits/stdc++.h>
