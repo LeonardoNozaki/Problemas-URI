@@ -43,14 +43,14 @@ ul li {
 }
 
 #Inicio {
-    background: url(../Imagens/background.jpg) no-repeat fixed center center;
+    background: url(../Imagens/back.jpg) no-repeat fixed center center;
     background-size: cover;
-    height: 65vh;
+    height: 85vh;
 }
 
-.center-white {
+.center-black {
     text-align: center;
-    color: white;
+    color: #fd7014;
 }
 
 .center {
