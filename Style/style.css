@@ -1,0 +1,58 @@
+.ul-li-active {
+    border-bottom: 5px solid #fd7014;
+}
+
+ul li {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.text-active {
+    color: white;
+    padding-right: .5rem;
+    padding-left: .5rem;
+    display: block;
+    padding: .5rem 1rem;
+}
+
+.text-active:hover {
+    color: white;
+    text-decoration: none;
+}
+
+#nav1 {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.nav-l {
+    color: rgba(255, 255, 255, .5);
+    padding-right: .5rem;
+    padding-left: .5rem;
+    display: block;
+    padding: .5rem 1rem;
+}
+
+.nav-l:hover {
+    color: #fd7014;
+    text-decoration: none;
+}
+
+.a {
+    color: white;
+}
+
+#Inicio {
+    background: url(../Imagens/background.jpg) no-repeat fixed center center;
+    background-size: cover;
+    height: 65vh;
+}
+
+.center-white {
+    text-align: center;
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
